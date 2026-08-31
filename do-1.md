@@ -1,2 +1,2 @@
 hi
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./images/Screenshot.png)
